@@ -13,4 +13,4 @@ Impeccable CSS!
 Brilliant Html!<img width="1299" alt="image" src="https://user-images.githubusercontent.com/104099162/227661681-882d940c-5bb4-42f7-9086-96a995028320.png">
 
 Oh, and this nerd:
-Drawing(11).jpeg<img width="1440" alt="image" src="https://user-images.githubusercontent.com/104099162/227662692-c8ebd5d5-8a9a-4325-9c3c-8acd2c3323ce.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/104099162/227662692-c8ebd5d5-8a9a-4325-9c3c-8acd2c3323ce.png">
